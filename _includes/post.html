@@ -1,0 +1,13 @@
+<div class="post-list-item post-list-item-{% cycle 'odd','even' %}" href="{{post.url}}" target="_blank" {% if hide %}style="display:none"{%- endif -%}>
+  <div class="post-list-item-header">
+    <div class="post-list-item-title">
+      {{post.title}}
+    </div>
+    <div class="post-list-item-description">
+      {{post.description}}
+
+      <a href="{{post.url}}" target="blank">View</a>
+    </div>
+  </div>
+  <a class="post-list-item-cover" style="background-image: url({{post.thumbnailUrl}})" href="{{post.url}}" target="blank"></a>
+</div>

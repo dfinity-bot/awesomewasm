@@ -1,0 +1,29 @@
+- title: Use 3D Physics to pull on Morty's face
+  url: http://www.adultswim.com/etcetera/elastic-man/
+  thumbnailUrl: https://slack-imgs.com/?c=1&url=https%3A%2F%2Fi.imgur.com%2FZ0Gwfaw.jpg
+  description: Demonstrating interactive, smooth 3D animation utilizing WASM.
+  tags: ['Demo', 'Dfinity']
+
+- title: Design documents
+  url: https://github.com/WebAssembly/design
+  thumbnailUrl: https://cdn-images-1.medium.com/max/2000/1*WDDOWu7xMeti0QIqkBtqqQ.png
+  description: "This repository contains documents describing the design and high-level overview of WebAssembly."
+  tags: ['Reference']
+
+- title: Design documents
+  url: https://github.com/WebAssembly/design
+  thumbnailUrl: https://cdn-images-1.medium.com/max/2000/1*WDDOWu7xMeti0QIqkBtqqQ.png
+  description: "This repository contains documents describing the design and high-level overview of WebAssembly."
+  tags: ['Reference', 'Language Support', 'C']
+
+- title: Design documents
+  url: https://github.com/WebAssembly/design
+  thumbnailUrl: https://cdn-images-1.medium.com/max/2000/1*WDDOWu7xMeti0QIqkBtqqQ.png
+  description: "This repository contains documents describing the design and high-level overview of WebAssembly."
+  tags: ['Reference', 'Dfinity', 'Javascript']
+
+- title: Design documents
+  url: https://github.com/WebAssembly/design
+  thumbnailUrl: https://cdn-images-1.medium.com/max/2000/1*WDDOWu7xMeti0QIqkBtqqQ.png
+  description: "This repository contains documents describing the design and high-level overview of WebAssembly."
+  tags: ['Reference', 'Dfinity']

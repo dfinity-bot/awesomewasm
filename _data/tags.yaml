@@ -1,0 +1,64 @@
+- fullName: Demo
+  urlName: demo
+
+- fullName: Language Support
+  urlName: language-support
+
+- fullName: C
+  urlName: c
+  parent: Language Support
+  parentUrl: language-support
+
+- fullName: C++
+  urlName: cpp
+  parent: Language Support
+  parentUrl: language-support
+
+- fullName: Javascript
+  urlName: javascript
+  parent: Language Support
+  parentUrl: language-support
+  icon: /assets/js-icon.png
+  icon2x: /assets/js-icon@2x.png
+
+- fullName: Rust
+  parent: Language Support
+  parentUrl: language-support
+  urlName: rust
+
+- fullName: Dfinity
+  urlName: dfinity
+  icon: /assets/DFINITY.png
+  icon2x: /assets/DFINITY@2x.png
+
+- fullName: WAST
+  parent: Language Support
+  parentUrl: language-support
+  urlName: wast
+
+- fullName: Game Development
+  urlName: game-dev
+
+
+
+- fullName: News
+  urlName: news
+
+- fullName: AI
+  urlName: ai
+
+# - fullName: Dfinity
+#   urlName: dfinity
+
+- fullName: Blockchain
+  urlName: blockchain
+
+- fullName: Real World
+  urlName: real-world
+
+- fullName: Library
+  urlName: library
+
+
+- fullName: Reference
+  urlName: reference
